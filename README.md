@@ -8,7 +8,7 @@
   <section>
     <h3>Description: </h3>
     <p>I created this app just to learn basics of android studio, and to get to know how simple android app works in the background.
-     I thought of the design first, then created a design prototype. I also uploaded it on android play store, to get to know how the android developer console works. The primary goal was to create an ad-free app for children.</p>
+     I thought of the design first, then created a design prototype. I also uploaded it on android play store, to get to know how the android developer console works. The primary goal was to create an <b>ad-free app for children</b>.</p>
     <h3>Things I learned: </h3>
     <ul>
       <li>Android studio basics</li>
@@ -18,7 +18,7 @@
       <li>Working with play console</li>
     </ul>
     <h3>App link: </h3>
-    <a href="https://play.google.com/store/apps/details?id=com.ruturaj.android.spanishvocabulary">Simplest checklist</a>
+    <a href="https://play.google.com/store/apps/details?id=com.ruturaj.android.spanishvocabulary">Spanish vocabulary</a>
   </section>
 </body>
 </html>
