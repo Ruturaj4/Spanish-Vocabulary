@@ -1,0 +1,125 @@
+{
+  "project_info": {
+    "project_number": "386856030017",
+    "firebase_url": "https://project-2732199785925525657.firebaseio.com",
+    "project_id": "project-2732199785925525657",
+    "storage_bucket": "project-2732199785925525657.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386856030017:android:1a6c452ae8361e99",
+        "android_client_info": {
+          "package_name": "fsdfdsf.gjk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386856030017-mjtl88e3oavtel2jndbtm5im5drg4sos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0bFbAoR4O6LnmYloLcGl5t9lDAn9_0kE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386856030017:android:f14c9e1f4fc95229",
+        "android_client_info": {
+          "package_name": "com.ruturaj.android.spanishvocabulary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386856030017-ve382ksjvn88fic6o14o48845r88egor.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ruturaj.android.spanishvocabulary",
+            "certificate_hash": "2294adc6a40dd7df132dabadcd4b14e4f08a859a"
+          }
+        },
+        {
+          "client_id": "386856030017-mjtl88e3oavtel2jndbtm5im5drg4sos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0bFbAoR4O6LnmYloLcGl5t9lDAn9_0kE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386856030017:android:379ad08fe9bf295d",
+        "android_client_info": {
+          "package_name": "com.ruturaj.android.spanishupdated"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386856030017-no7k4djqf50mncrdltbp4tm6cfmtcp3l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ruturaj.android.spanishupdated",
+            "certificate_hash": "2294adc6a40dd7df132dabadcd4b14e4f08a859a"
+          }
+        },
+        {
+          "client_id": "386856030017-mjtl88e3oavtel2jndbtm5im5drg4sos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0bFbAoR4O6LnmYloLcGl5t9lDAn9_0kE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386856030017-mjtl88e3oavtel2jndbtm5im5drg4sos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
